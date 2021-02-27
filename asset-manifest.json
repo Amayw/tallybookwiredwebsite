@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tallybookwiredwebsite/static/css/main.03597d55.chunk.css",
+    "main.js": "/tallybookwiredwebsite/static/js/main.17eaf6ec.chunk.js",
+    "main.js.map": "/tallybookwiredwebsite/static/js/main.17eaf6ec.chunk.js.map",
+    "runtime-main.js": "/tallybookwiredwebsite/static/js/runtime-main.c7bad7ff.js",
+    "runtime-main.js.map": "/tallybookwiredwebsite/static/js/runtime-main.c7bad7ff.js.map",
+    "static/js/2.431113a4.chunk.js": "/tallybookwiredwebsite/static/js/2.431113a4.chunk.js",
+    "static/js/2.431113a4.chunk.js.map": "/tallybookwiredwebsite/static/js/2.431113a4.chunk.js.map",
+    "index.html": "/tallybookwiredwebsite/index.html",
+    "static/css/main.03597d55.chunk.css.map": "/tallybookwiredwebsite/static/css/main.03597d55.chunk.css.map",
+    "static/js/2.431113a4.chunk.js.LICENSE.txt": "/tallybookwiredwebsite/static/js/2.431113a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7bad7ff.js",
+    "static/js/2.431113a4.chunk.js",
+    "static/css/main.03597d55.chunk.css",
+    "static/js/main.17eaf6ec.chunk.js"
+  ]
+}
